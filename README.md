@@ -20,6 +20,5 @@ The CMS source code is maintained in a **private repository** and is not publicl
 For verification purposes, each release here corresponds to an internal build ID and deployment record stored securely.
 
 ## How to Use
-- See the **CHANGELOG.md** file for a consolidated list of changes.
-- Use the **Releases** tab to view detailed notes and attached validation documents for a specific version.
+- Use the **Releases** tab to view detailed notes for a specific version.
 
