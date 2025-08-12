@@ -9,10 +9,9 @@ It does **not** include the application source code.
 - Store validation evidence and deployment artifacts for reference.
 
 ## Structure
-- `CHANGELOG.md` — Full history of all releases in reverse chronological order.
 - **GitHub Releases** — Individual version entries with:
   - Release notes
-  - Supporting documents (PDF, ZIP)
+  - Supporting screenshots
   - Timestamp of publication
 
 ## Access to Source Code
